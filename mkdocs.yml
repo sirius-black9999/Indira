@@ -4,14 +4,20 @@ nav:
     - 'Introduction': 'README.md'
     - 'more stuff': 'BLEH.md'
     - 'License': 'LICENSE.md'
-    - 'test':
-      - 'layers':
-        - 'layers':
-          - 'layers':
-            - 'layers':
-              - 'layers':
-                - 'layers':
-                  - 'asdf': 'ASDF.md'
+    - 'The campaign':
+      - 'Indira':
+        - 'Ayumu':
+          - 'Brovook':
+            - 'About Brovook': 'README.md'
+          - 'Farquill':
+            - 'About Farquill': 'README.md'
+        - 'Nimia':
+          - 'Lugra':
+            - 'About Lugra': 'README.md'
+          - 'Far point':
+            - 'About Far point': 'README.md'
+          - "Badger's rise":
+            - "About Badger's rise": 'README.md'
 #    - 'About': 'about.md'
 
 theme:
