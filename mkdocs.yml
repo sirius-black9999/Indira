@@ -1,8 +1,8 @@
 site_name: Indira campaign guide
 
 nav:
-    - 'Introduction': 'readme.md'
-#    - 'User Guide': 'user-guide.md'
+    - 'Introduction': 'README.md'
+    - 'License': 'LICENSE.md'
 #    - 'About': 'about.md'
 
 theme:
