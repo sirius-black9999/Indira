@@ -1,10 +1,10 @@
 site_name: Indira campaign guide
 
 nav:
-- 'Introduction': 'README.md'
- - 'more stuff': 'BLEH.md'
- - 'License': 'LICENSE.md'
- - 'asdf': 'ASDF.md'
+    - 'Introduction': 'README.md'
+        - 'more stuff': 'BLEH.md'
+        - 'License': 'LICENSE.md'
+        - 'asdf': 'ASDF.md'
 #    - 'About': 'about.md'
 
 theme:
