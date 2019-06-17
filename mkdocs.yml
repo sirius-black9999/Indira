@@ -18,6 +18,8 @@ nav:
             - 'About Far point': 'README.md'
           - "Badger's rise":
             - "About Badger's rise": 'README.md'
+            - "_DM About Badger's rise": 'README.md'
+            - "DM About Badger's rise": '_README.md'
 #    - 'About': 'about.md'
 
 theme:
