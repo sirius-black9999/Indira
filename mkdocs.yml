@@ -1,7 +1,7 @@
 site_name: Indira campaign guide
 
 nav:
-    - 'Boring stuff': 'README.md'
+    - 'Boring stuff':
       - 'About this document': 'README.md'
       - 'License': 'LICENSE.md'
     - 'The campaign':
