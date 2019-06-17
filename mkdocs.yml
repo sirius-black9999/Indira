@@ -1,0 +1,13 @@
+site_name: Indira campaign guide
+
+nav:
+    - 'Introduction': 'index.md'
+    - 'User Guide': 'user-guide.md'
+    - 'About': 'about.md'
+
+theme:
+    name: mkdocs
+    custom_dir: my_theme_customizations/
+    static_templates:
+        - sitemap.html
+    include_sidebar: false
