@@ -1,25 +1,23 @@
 site_name: Indira campaign guide
 
 nav:
-    - 'Introduction': 'README.md'
-    - 'more stuff': 'BLEH.md'
-    - 'License': 'LICENSE.md'
+    - 'Boring stuff': 'README.md'
+      - 'About this document': 'README.md'
+      - 'License': 'LICENSE.md'
     - 'The campaign':
       - 'Indira':
         - 'Ayumu':
           - 'Brovook':
-            - 'About Brovook': 'README.md'
+            - 'About Brovook': 'brovook/about.md'
           - 'Farquill':
-            - 'About Farquill': 'README.md'
+            - 'About Farquill': 'farquill/about.md'
         - 'Nimia':
           - 'Lugra':
-            - 'About Lugra': 'README.md'
+            - 'About Lugra': 'lugra/about.md'
           - 'Far point':
-            - 'About Far point': 'README.md'
+            - 'About Far point': 'farpoint/about.md'
           - "Badger's rise":
-            - "About Badger's rise": 'README.md'
-            - "_DM About Badger's rise": 'README.md'
-            - "DM About Badger's rise": '_README.md'
+            - "About Badger's rise": 'badgersrise/about.md'
 #    - 'About': 'about.md'
 
 theme:
