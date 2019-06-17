@@ -11,3 +11,6 @@ theme:
 #    static_templates:
 #        - sitemap.html
 #    include_sidebar: true
+
+docs_dir: 'docs'
+site_dir: 'site'
